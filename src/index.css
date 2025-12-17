@@ -1,0 +1,17 @@
+@layer base {
+  body {
+    font-family: 'Space Grotesk', 'Inter', system-ui, -apple-system, sans-serif;
+    overflow-x: hidden;
+    letter-spacing: 0.004em;
+    line-height: 1.6;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Space Grotesk', 'Inter', system-ui, -apple-system, sans-serif;
+    letter-spacing: 0.01em;
+  }
+  
+  code, pre {
+    font-family: 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace;
+  }
+}
